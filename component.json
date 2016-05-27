@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/vuejs/vue-validator",
+    "description": "Validator component for VueJS",
+    "name": "vue-validator",
+    "main": "vue-validator.js",
+    "dependencies": {
+        "vue": ">=0.12.0"
+    },
+    "version": "v1.3.3"
+}
